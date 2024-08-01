@@ -1,0 +1,92 @@
+.form-outline {
+  position: relative;
+}
+
+.form-outline input {
+  height: 50px;
+  padding: 12px 16px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  transition: all 0.2s ease-in-out;
+}
+
+.form-outline label {
+  position: absolute;
+  top: 50%;
+  left: 16px;
+  transform: translateY(-50%);
+  background-color: white;
+  padding: 0 4px;
+  transition: all 0.2s ease-in-out;
+  pointer-events: none;
+}
+
+.form-outline input:focus,
+.form-outline input:not(:placeholder-shown) {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+.form-outline input:focus + label,
+.form-outline input:not(:placeholder-shown) + label {
+  top: 0;
+  font-size: 12px;
+  color: #007bff;
+}
+
+.divider:before,
+.divider:after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+  background-color: #f0f4f9;
+}
+
+@font-face {
+    font-family: 'marvel';
+    src: url('assets/fonts/marvel.otf') format('truetype');
+}
+@font-face {
+    font-family: 'dc';
+    src: url('assets/fonts/dc.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'bangers';
+    src: url('assets/fonts/Bangers-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'roboto';
+    src: url('assets/fonts/Roboto-Medium.ttf') format('truetype');
+}
+
+
+.marvel {
+  font-family: 'marvel';
+}
+
+.dc {
+  font-family: 'dc';
+}
+
+.comic {
+  font-family: 'bangers';
+}
+
+
+.search {
+  height: 50px;
+  padding: 12px 16px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  transition: all 0.2s ease-in-out;
+}
+
