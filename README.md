@@ -46,7 +46,7 @@ Asegúrate de tener instalado [Yarn](https://yarnpkg.com/getting-started/install
 
 1. Clona este repositorio:
 
-    ```bash
+    ```bash 
     git clone https://github.com/dot-all/hero.git
     ```
 
