@@ -1,5 +1,7 @@
 # HERO
 
+<img src="./assets/hero.webp">
+
 ## Descripción
 
 HERO es una aplicación web interactiva que permite a los usuarios explorar y descubrir información sobre sus superhéroes favoritos de DC Comics y Marvel Comics. Esta aplicación ofrece una experiencia inmersiva para los aficionados de los cómics y los superhéroes, proporcionando un catálogo detallado y funciones de búsqueda intuitivas.
