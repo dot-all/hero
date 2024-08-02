@@ -58,7 +58,7 @@ Asegúrate de tener instalado [Yarn](https://yarnpkg.com/getting-started/install
 
 3. Instala las dependencias necesarias:
 
-    ```bash
+    ```bash 
     yarn install
     ```
 
