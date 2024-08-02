@@ -36,7 +36,39 @@ HERO es una aplicación web interactiva que permite a los usuarios explorar y de
 4. Haz clic en cualquier tarjeta de superhéroe para ver información detallada sobre ese personaje.
 
 ## Instalación
+Sigue estos pasos para configurar y ejecutar el proyecto localmente.
 
+### Prerrequisitos
+
+Asegúrate de tener instalado [Yarn](https://yarnpkg.com/getting-started/install) en tu sistema.
+
+### Instrucciones
+
+1. Clona este repositorio:
+
+    ```bash
+    git clone https://github.com/dot-all/hero.git
+    ```
+
+2. Navega al directorio del proyecto:
+
+    ```bash
+    cd hero
+    ```
+
+3. Instala las dependencias necesarias:
+
+    ```bash
+    yarn install
+    ```
+
+4. Inicia el servidor de desarrollo:
+
+    ```bash
+    yarn dev
+    ```
+
+5. Abre tu navegador y navega a `http://localhost:3000` para ver el proyecto en acción.
 
 
 ## Contribuciones
