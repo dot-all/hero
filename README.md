@@ -2,26 +2,27 @@
 
 <img src="./assets/hero.webp">
 
-## Descripción
+## Description
 
 HERO is an interactive web application that allows users to explore and discover information about their favourite DC Comics and Marvel Comics superheroes. This application offers an immersive experience for comic book and superhero fans, providing a detailed catalogue and intuitive search functions.
 
-## Características principales
+## Main features
 
-- **Catálogo de Superhéroes**: Presenta un extenso listado de superhéroes tanto de DC Comics como de Marvel Comics.
+- **Superhero Catalogue**: Features an extensive listing of superheroes from both DC Comics and Marvel Comics.
 
-- **Filtrado por Publisher**: Los usuarios pueden filtrar los superhéroes por su editorial de origen (DC o Marvel), permitiendo una exploración más enfocada.
+- **Filter by Publisher**: Users can filter superheroes by their publisher of origin (DC or Marvel), allowing for more focused exploration.
 
-- **Búsqueda por Nombre**: Incluye una función de búsqueda que permite a los usuarios encontrar rápidamente superhéroes específicos por su nombre.
+- **Search by Name**: Includes a search function that allows users to quickly find specific superheroes by name.
 
-- **Tarjetas de Superhéroes**: Cada superhéroe se presenta en una tarjeta visualmente atractiva que muestra información básica del personaje.
+- **Superhero Cards**: Each superhero is presented on a visually appealing card that displays basic character information.
 
-- **Detalles Ampliados**: Al hacer clic en la tarjeta de un superhéroe, los usuarios son dirigidos a una página de detalles que proporciona información más completa, incluyendo:
-  - Nombre del superhéroe
-  - Primera aparición
-  - Editorial (Publisher)
+- **Expanded Details**: By clicking on a superhero's card, users are directed to a detail page that provides more complete information, including:
+  - Superhero name
+  - First appearance
+  - Publisher
   - Alter ego
 
+Translated with DeepL.com (free version)
 ## Tecnologías Utilizadas
 
 - React.js para la interfaz de usuario
