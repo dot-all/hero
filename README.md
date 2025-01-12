@@ -29,12 +29,12 @@ Translated with DeepL.com (free version)
 - React Router para la navegación
 - Bootstrap para el diseño responsive
 
-## Cómo Usar
+## How to Use
 
-1. Navega por la lista completa de superhéroes en la página principal.
-2. Utiliza los filtros para ver superhéroes específicos de DC o Marvel.
-3. Usa la barra de búsqueda para encontrar un superhéroe por su nombre.
-4. Haz clic en cualquier tarjeta de superhéroe para ver información detallada sobre ese personaje.
+1. Browse the full list of superheroes on the homepage.
+2. Use the filters to view specific DC or Marvel superheroes.
+3. Use the search bar to find a superhero by name.
+4. Click on any superhero card to view detailed information about that character.
 
 ## Instalación
 Sigue estos pasos para configurar y ejecutar el proyecto localmente.
