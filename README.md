@@ -22,7 +22,6 @@ HERO is an interactive web application that allows users to explore and discover
   - Publisher
   - Alter ego
 
-Translated with DeepL.com (free version)
 ## Tecnologías Utilizadas
 
 - React.js para la interfaz de usuario
